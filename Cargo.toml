@@ -1,0 +1,15 @@
+[package]
+name = "tokio-keyed-executor"
+version = "0.1.0"
+edition = "2024"
+description = "Key Sequential Executor for Tokio"
+license = "MIT"
+repository = "https://github.com/jano7/tokio-keyed-executor"
+readme = "README.md"
+rust-version = "1.100"
+keywords = ["key", "sequential", "executor", "tokio"]
+categories = ["asynchronous", "concurrency"]
+
+[dependencies]
+
+[dev-dependencies]
