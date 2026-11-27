@@ -11,5 +11,4 @@ keywords = ["key", "sequential", "executor", "tokio"]
 categories = ["asynchronous", "concurrency"]
 
 [dependencies]
-
-[dev-dependencies]
+tokio = "1.54.1"
